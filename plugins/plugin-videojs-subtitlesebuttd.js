@@ -8,6 +8,7 @@
  *  Copyright 2016 GaTV. Universidad Politecnica de Madrid
  *
  *  @author Juan Pedro López Velasco
+ *  @contact jlv@gatv.ssr.upm.es
  *  @date 09.2016
  *
  *  For more information:
